@@ -8,6 +8,9 @@ using System.Web.Http;
 
 namespace Katana1
 {
+    /// <summary>
+    /// Classe main para as configurações do Middleware
+    /// </summary>
     public class Startup
     {
         public void Configuration(IAppBuilder app)
